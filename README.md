@@ -1,5 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Roshan
 
+**🎓 Electronics Engineering Student | 💡 Passionate about core hardware & software**
+
+🧠 *"Circuits and code is my career language."*
+
+---
+
+## 🚀 About Me
+-  Exploring VLSI, data science and businesses.
+-  Want to build systems that blend logic gates with logic loops.
+-  Keen in understanding deep-tech.
+  
+---
+
+## 📫 Connect
+- [Linked in](https://www.linkedin.com/in/roshan-d-52a760227/)
 <!--
 **imroshan17/imroshan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
