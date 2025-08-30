@@ -1,15 +1,12 @@
 # 👋 Hi, I'm Roshan
 
-**🎓 Electronics Engineering Student | 💡 Passionate about core hardware & software**
-
-🧠 *"Circuits and code is my career language."*
+🎓 Undergrad @ PESU and BITS Pilani
 
 ---
 
-## 🚀 About Me
--  Exploring VLSI, data science and businesses.
--  Want to build systems that blend logic gates with logic loops.
--  Keen in understanding deep-tech.
+## 🚀 Education
+-  PESU - CSE AI/ML
+-  BITS Pilani - B.S in AI and DS
   
 ---
 
