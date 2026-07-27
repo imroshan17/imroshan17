@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Roshan
 
-🎓 Undergrad @ PESU and BITS Pilani
+🎓 Undergrad @ PESU
 
 ---
 
 ## 🚀 Education
 -  PESU - CSE AI/ML
--  BITS Pilani - B.S in AI and DS
   
 ---
 
 ## 📫 Connect
 - [Linked in](https://www.linkedin.com/in/roshan-d-52a760227/)
+- I’m currently working on building stuff
 <!--
 **imroshan17/imroshan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
