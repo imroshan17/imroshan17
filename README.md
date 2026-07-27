@@ -11,7 +11,7 @@
 
 ## 📫 Connect
 - [Linked in](https://www.linkedin.com/in/roshan-d-52a760227/)
-- I’m currently working on building stuff
+- I’m currently building stuff
 <!--
 **imroshan17/imroshan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
